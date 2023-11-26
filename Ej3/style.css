@@ -1,0 +1,9 @@
+#contenedor{
+    display: grid;
+    justify-content: center;
+}
+
+#contenedorCards{
+    display: flex;
+    flex-wrap: wrap;
+}
